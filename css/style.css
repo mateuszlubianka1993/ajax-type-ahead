@@ -1,6 +1,46 @@
 body {
-    background-color: yellow;
+    background-color: #ffc30b;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 .hl {
-    background-color: red;
+    background-color: #ffc30b;
 }
+.population {
+    
+}
+.search-form {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 70px;
+}
+.search {
+    text-align: center;
+    width: 350px;
+    height: 50px;
+    border: 5px solid #555;
+    border-radius: 10px;
+    font-size: 2.5rem;
+    padding: 10px;
+    background-color: #eee;
+}
+ul {
+    padding-left: 0;
+}
+ul li {
+    list-style-type: none;
+    background-color: #eee;
+    width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    padding: 5px 10px;
+    font-size: 1.3rem;
+    box-shadow: 15px 15px 26px 0px rgba(0,0,0,0.75);
+    margin-bottom: 10px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-between;
+}
+
