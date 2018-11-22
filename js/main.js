@@ -37,17 +37,3 @@ document.addEventListener('DOMContentLoaded', function () {
     searchInput.addEventListener('change', displayMatches);
     searchInput.addEventListener('keyup', displayMatches);
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
